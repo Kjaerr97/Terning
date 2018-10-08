@@ -4,6 +4,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class DiceJUnitTest {
 
+    //Andreas test
 
     /*
     Første del af testen af terningeprogrammet er, at se om programmet giver værdier, som ikke fremtræder på en
