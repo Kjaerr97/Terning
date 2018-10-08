@@ -18,5 +18,3 @@ public class Dice {
 		}
 	}
 }
-
-// JUnitTestRasmus
